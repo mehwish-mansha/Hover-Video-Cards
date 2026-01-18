@@ -22,7 +22,7 @@ Built using **HTML, CSS (Flexbox), and JavaScript**.
 hover-video-cards/
 ├── index.html
 ├── style.css
-├── script.js
+├── main.js
 ├── clips/
 │ ├── 1.mp4
 │ ├── 2.mp4 
