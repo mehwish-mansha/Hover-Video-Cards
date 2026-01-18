@@ -47,10 +47,6 @@ hover-video-cards/
 - Autoplay works only when video is muted
 - Hover interactions are best experienced on desktop
 
-## 📷 Preview
-
-(Add a screenshot or GIF here later)
-
 ## 📄 License
 
 This project is open-source and free to use.
