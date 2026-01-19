@@ -9,7 +9,14 @@ html, body {
   background: #530000;
   /* cursor: url(./assets/cursor\ \(1\).png), auto; */
 }
-
+h1{
+  font-size: 45px;
+  color: #fff;
+  font-family: "Pixelify Sans", sans-serif;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
 .card-container {
     width: 45%;
     display: flex;
